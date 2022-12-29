@@ -1,2 +1,2 @@
 # Portfolio
-https://kamlesh-portfolio-6897.netlify.app/
+https://kamlesh-singh-portfolio.netlify.app/
